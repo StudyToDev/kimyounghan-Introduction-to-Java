@@ -1,4 +1,4 @@
-package section2;
+package section.two;
 
 public class CommentJava {
     public static void main(String[] args) {
