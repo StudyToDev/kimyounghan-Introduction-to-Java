@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var4 {
+public class Variable4 {
     public static void main(String[] args) {
         int a;
         int b;

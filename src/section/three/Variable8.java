@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var8 {
+public class Variable8 {
     public static void main(String[] args) {
         //정수
         byte b = 127; // -128 ~ 127

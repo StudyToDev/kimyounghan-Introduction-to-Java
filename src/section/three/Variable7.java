@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var7 {
+public class Variable7 {
     public static void main(String[] args) {
         int a= 100; //정수
         double b = 10.5; // 실수

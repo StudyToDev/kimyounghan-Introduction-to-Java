@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var1 {
+public class Variable1 {
     public static void main(String[] args) {
         // 같은 내용을 세번 프린하는 프로그램을 만들었는데,
         // 무엇을 출력할지를 바꿔야 한다면,

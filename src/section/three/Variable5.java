@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var5 {
+public class Variable5 {
     public static void main(String[] args) {
         // 1. 변수 선언, 초기화 각각 따로
         int a;

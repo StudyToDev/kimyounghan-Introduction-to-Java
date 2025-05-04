@@ -1,6 +1,6 @@
-package section.three.variable;
+package section.three;
 
-public class Var6 {
+public class Variable6 {
     public static void main(String[] args) {
         int a;
         // 변수 초기화 하지 않고 실행하면 컴파일되지 않음으로 실행자체가 되지 않음
