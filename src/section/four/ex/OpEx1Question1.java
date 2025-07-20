@@ -1,4 +1,4 @@
-package section.four.comp.ex;
+package section.four.ex;
 
 public class OpEx1Question1 {
     public static void main(String[] args) {
